@@ -99,15 +99,9 @@
   <img src="https://github.com/samirkumar13/samirkumar13/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<!-- Fallback Stats for when snake is loading or if it fails -->
-<details>
-  <summary align="center">Show Detailed Stats</summary>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=samirkumar13&show_icons=true&theme=tokyonight&hide_border=true" alt="Samir's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkumar13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  </p>
-</details>
+### 📊 Detailed Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirkumar13&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirkumar13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 <br/>
 
