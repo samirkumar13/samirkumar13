@@ -1,20 +1,31 @@
-<!-- Header with Typing Effect -->
+<!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Samir+Kumar+%F0%9F%91%8B;Building+AI+%2B+Web+Solutions;Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="./banner.png" alt="Profile Banner" width="100%" />
+</div>
+
+<br/>
+
+<!-- Typing Intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Samir+Kumar+%F0%9F%91%8B;Building+Sustainable+Tech+%2B+AI;Turning+Ambition+into+Action" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+  <h3>Full Stack Developer | AI Enthusiast | Innovator</h3>
 </div>
+
+<br/>
 
 <p align="center">
-  A passionate Computer Science student from India, focused on building impactful applications that bridge the gap between <b>Web Technologies</b> and <b>Artificial Intelligence</b>. I love open source and solving real-world problems.
+  I'm a computer science student passionate about leveraging technology to solve real-world problems. 
+  <br/>
+  My focus lies at the intersection of <b>Web Development</b> and <b>Artificial Intelligence</b>, building tools that matter.
 </p>
 
 <br/>
 
-<!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<!-- Tech Stack -->
+<h2 align="center">⚡ Tech Arsenal</h2>
 
 <div align="center">
   
@@ -26,85 +37,85 @@
   
   <br/> <br/>
   
-  <!-- Frontend -->
+  <!-- Stack -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   
   <br/> <br/>
   
-  <!-- Backend & AI -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <!-- AI & Tools -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 <br/>
 
-<!-- Projects Section -->
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Work</h2>
 
-<table align="center">
+<table align="center" border="0" cellpadding="20">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/samirkumar13/CarbonTrack-India"><h3>🌿 CarbonTrack India</h3></a>
-      <p>Comprehensive carbon footprint calculator for Indian industries, tailored to local needs and compliance standards.</p>
+      <p>Comprehensive carbon footprint calculator tailored for Indian industries.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <br/><br/>
-      <a href="https://carbontrack-india.netlify.app/"><strong>View Live Demo ➜</strong></a>
+      <a href="https://carbontrack-india.netlify.app/"><b>View Live Demo ➜</b></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/samirkumar13/Cantonment-Area-Detection"><h3>🤖 Cantonment Detection</h3></a>
-      <p>AI-powered system using Local LLM & LLAVA for semantic interpretation of sensitive area data.</p>
+      <p>AI system using Local LLM & LLAVA to interpret sensitive area data.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/AI%2FLLM-FF6F00?style=flat-square" />
       <br/><br/>
-      <a href="https://cantonment-detection.onrender.com/"><strong>View Live Demo ➜</strong></a>
+      <a href="https://cantonment-detection.onrender.com/"><b>View Live Demo ➜</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/samirkumar13/voice-link"><h3>🎙️ VoiceLink</h3></a>
-      <p>Anonymous voice chat platform built for seamless real-time communication.</p>
+      <p>Anonymous real-time voice chat platform for seamless communication.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
       <br/><br/>
-      <a href="https://voice-link.up.railway.app/"><strong>View Live Demo ➜</strong></a>
+      <a href="https://voice-link.up.railway.app/"><b>View Live Demo ➜</b></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/samirkumar13/EcoTrace-Carbon-Footprint-Calculator"><h3>👣 EcoTrace</h3></a>
-      <p>A personal carbon footprint calculator to help individuals track and reduce their environmental impact.</p>
+      <p>Personal carbon footprint calculator to track environmental impact.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Eco--Friendly-4CAF50?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sustainability-4CAF50?style=flat-square" />
       <br/><br/>
-      <a href="https://carbon-footprint-calculator-ecotrace.netlify.app/"><strong>View Live Demo ➜</strong></a>
+      <a href="https://carbon-footprint-calculator-ecotrace.netlify.app/"><b>View Live Demo ➜</b></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- Snake Animation -->
+<h2 align="center">🐍 Coding Activity</h2>
+<p align="center">
+  <img src="https://github.com/samirkumar13/samirkumar13/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samirkumar13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samir's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkumar13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samirkumar13&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+<!-- Fallback Stats for when snake is loading or if it fails -->
+<details>
+  <summary align="center">Show Detailed Stats</summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=samirkumar13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkumar13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" />
+  </div>
+</details>
 
 <br/>
 
-<!-- Connect Section -->
 <div align="center">
-  <a href="https://github.com/samirkumar13">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
