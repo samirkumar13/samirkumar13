@@ -1,9 +1,4 @@
-<!-- Banner -->
-<div align="center">
-  <img src="./banner.png" alt="Profile Banner" width="100%" />
-</div>
 
-<br/>
 
 <!-- Typing Intro -->
 <div align="center">
