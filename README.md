@@ -99,13 +99,7 @@
   <img src="https://github.com/samirkumar13/samirkumar13/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-### 📊 Detailed Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samirkumar13&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkumar13&layout=compact&theme=dark&langs_count=6" height="180" alt="Top Languages" />
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
