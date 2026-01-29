@@ -102,11 +102,11 @@
 <!-- Fallback Stats for when snake is loading or if it fails -->
 <details>
   <summary align="center">Show Detailed Stats</summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=samirkumar13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkumar13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" />
-  </div>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=samirkumar13&show_icons=true&theme=tokyonight&hide_border=true" alt="Samir's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkumar13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </p>
 </details>
 
 <br/>
