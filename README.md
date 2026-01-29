@@ -100,8 +100,10 @@
 </p>
 
 ### 📊 Detailed Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirkumar13&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirkumar13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samirkumar13&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkumar13&layout=compact&theme=dark&langs_count=6" height="180" alt="Top Languages" />
+</div>
 
 <br/>
 
