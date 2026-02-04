@@ -49,49 +49,7 @@
 
 <br/>
 
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Work</h2>
 
-<table align="center" border="0" cellpadding="20">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/samirkumar13/CarbonTrack-India"><h3>🌿 CarbonTrack India</h3></a>
-      <p>Comprehensive carbon footprint calculator tailored for Indian industries.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <br/><br/>
-      <a href="https://carbontrack-india.netlify.app/"><b>View Live Demo ➜</b></a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/samirkumar13/Cantonment-Area-Detection"><h3>🤖 Cantonment Detection</h3></a>
-      <p>AI system using Local LLM & LLAVA to interpret sensitive area data.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI%2FLLM-FF6F00?style=flat-square" />
-      <br/><br/>
-      <a href="https://cantonment-detection.onrender.com/"><b>View Live Demo ➜</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/samirkumar13/voice-link"><h3>🎙️ VoiceLink</h3></a>
-      <p>Anonymous real-time voice chat platform for seamless communication.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-      <br/><br/>
-      <a href="https://voice-link.up.railway.app/"><b>View Live Demo ➜</b></a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/samirkumar13/EcoTrace-Carbon-Footprint-Calculator"><h3>👣 EcoTrace</h3></a>
-      <p>Personal carbon footprint calculator to track environmental impact.</p>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sustainability-4CAF50?style=flat-square" />
-      <br/><br/>
-      <a href="https://carbon-footprint-calculator-ecotrace.netlify.app/"><b>View Live Demo ➜</b></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <!-- Snake Animation -->
 <h2 align="center">🐍 Coding Activity</h2>
